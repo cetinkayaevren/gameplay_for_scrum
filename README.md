@@ -7,7 +7,7 @@ Developers:
 - Deniz Büyüktaş
 - Mustafa Eren Şentürk
 - Yusuf Hilmi Hacıyusufoğulları
-- 
+
 ## Video Demo
 Please click on the image below to reach our demo video!
 [![Our Demo](demo.png)](https://youtu.be/t8udjmgmowc)
